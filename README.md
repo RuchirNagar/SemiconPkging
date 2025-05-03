@@ -1,7 +1,7 @@
 # Introduction To Semiconductor Packaging Course: VSD
 Repository For "Introduction to Semiconductor Packaging" Course work
 
-**Note:** Work done for individual module is stored in form of PDF files under the respective module folder
+**Note:** Work done for individual module is stored in form of PDF files
 
 **Module 1: Packaging Evolution: From Basics to 3D Integration**
 Lecture-1: Introduction To Semiconductor Packaging
