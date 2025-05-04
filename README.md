@@ -68,7 +68,7 @@ Welcome to the repository for the **"Introduction to Semiconductor Packaging"** 
 
 ### Lecture 2: Setting Up a Flip Chip BGA Package
 1. Importing Pre-generated Geometries for FCBGA.
-2.  Analyzing Layers of FCBGA.
+2. Analyzing Layers of FCBGA.
 
 ### Lecture 3: Material Definitions & Thermal Power Sources
 1. Defining Thermal Simulation Parameters for the Different Layers.
@@ -81,6 +81,46 @@ Welcome to the repository for the **"Introduction to Semiconductor Packaging"** 
 ### Lecture 5: Viewing Results & Exploring Other Package Types
 1. Generating Simulation Results for Given Inputs.
 2. Plotting the Simulation Results on the 3D Package.
+
+---
+
+## Module 4: Ensuring Package Reliability: Testing & Performance Evaluation
+
+### Lecture 1: Introduction to Package Testing & Electrical Functionality Checks
+1. Overview of Why Testing is Needed.
+2. Common IC Test Overview: AOST, Burn-In, Final Test
+3. Analysis of AOST & Typical Failures it can Detect.
+
+### Lecture 2: Reliability & Performance Testing of Semiconductor Packages
+1. Analysis of Burn-In Test.
+2. Intorduction to Failure Rate V/S Time Curve.
+3. Overview of Burn-In Boards & the Faults Detected in This Test.
+4. Discussion of Final Tests: Testing Edge Cases (Hot & Cold Test)
+5. Performance Indicators & Units of Final Test Equipment.
+
+---
+
+## Module 5: Package Design & Modelling: Building a Semiconductor Package from Scratch
+
+### Lecture 1:  Into To Package Cross-Section Modelling in Ansys Electronics Desktop (AEDT)
+1. Overview of Packaging Dies
+2. Intorduction to Q3D for Electrical Analysis. 
+
+### Lecture 2: Creating the Die Substrate in AEDT
+1. Overview of the tool Q3D Draw Tool Bar & Surface Generation.
+2. Renaming & Assigning Materials to Layers.
+
+### Lecture 3: Adding Die Attach Material & Bond Pads
+1. Placing Bond Pads on Die & Substrate.
+2. Adding Underfill between Die & Substrate.
+
+### Lecture 4: Wire Bond Creation & Material Alignment
+1. Introduction to Bond Wire, it's Properties & types.
+2. Connecting Bond Pads on Die & Substrate using Bond Wires.
+
+### Lecture 5: Applying Mould Compound & Finalizing the Package Model
+1. Adding a Layer of Moulding Compound Over the Connected Die.
+2. Consideration Taken Before Deciding Moulding Compound Height.
 
 ---
 
