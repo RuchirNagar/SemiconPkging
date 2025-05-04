@@ -124,4 +124,4 @@ Welcome to the repository for the **"Introduction to Semiconductor Packaging"** 
 
 ---
 
-For detailed lecture notes and diagrams, refer to the PDF files inside each module folder.
+For detailed lecture notes and diagrams, refer to the module's PDF file.
