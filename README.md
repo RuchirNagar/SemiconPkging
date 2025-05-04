@@ -6,7 +6,7 @@ Welcome to the repository for the **"Introduction to Semiconductor Packaging"** 
 
 ---
 
-## Module 1: Packaging Evolution – From Basics to 3D Integration ([PDF](./M1_Packging_Evo.pdf))
+## Module 1: Packaging Evolution – From Basics to 3D Integration ([PDF](./M1 Packging Evo.pdf))
 
 ### Lecture 1: Introduction to Semiconductor Packaging
 1. What is packaging and Why is it Needed?
