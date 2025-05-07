@@ -19,9 +19,13 @@ Welcome to the repository for the **"Introduction to Semiconductor Packaging"** 
 Upcoming Units in India: Micron, CG Powers + Renesas, Tata Electronics, Kaynes Semiconductor
 
 ### Lecture 2: Understanding Package Requirements and Foundational Package Types
+## Key Takeaways:
 1. Silicon Development Cycle.
 2. Key Factors to Consider While Designing Packages.
 3. Package Families & their Types.
+
+![image](https://github.com/user-attachments/assets/f891b444-3e65-40a8-afbf-92c5f2a443db)
+
 
 ### Lecture 3: Evolving Package Architecture – Single Chip to Multi-Chip Modules
 1. Types of Package Families.
