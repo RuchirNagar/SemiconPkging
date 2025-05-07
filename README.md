@@ -2,6 +2,7 @@
 
 Welcome to the repository for the **"Introduction to Semiconductor Packaging"** coursework by **VSD**.
 
+
 **Note:** Work completed for each individual module is stored in the form of PDF files.
 
 ---
@@ -159,28 +160,36 @@ Upcoming Units in India: Micron, CG Powers + Renesas, Tata Electronics, Kaynes S
 ### Lecture 1:  Into To Package Cross-Section Modelling in Ansys Electronics Desktop (AEDT)
 #### Key Takeaways:
 1. Overview of Packaging Dies
-2. Intorduction to Q3D for Electrical Analysis. 
+2. Intorduction to Q3D for Electrical Analysis.
+
+![image](https://github.com/user-attachments/assets/109d868b-2f6f-448e-869a-6c90c2679d6e)
 
 ### Lecture 2: Creating the Die Substrate in AEDT
 #### Key Takeaways:
 1. Overview of the tool Q3D Draw Tool Bar & Surface Generation.
 2. Renaming & Assigning Materials to Layers.
 
+![image](https://github.com/user-attachments/assets/7ea4623e-98e0-44a9-a111-640be7c6c832)
+
 ### Lecture 3: Adding Die Attach Material & Bond Pads
 #### Key Takeaways:
 1. Placing Bond Pads on Die & Substrate.
 2. Adding Underfill between Die & Substrate.
+
+![image](https://github.com/user-attachments/assets/249e93ac-e29d-4605-8245-7cbea5b0d201)
 
 ### Lecture 4: Wire Bond Creation & Material Alignment
 #### Key Takeaways:
 1. Introduction to Bond Wire, it's Properties & types.
 2. Connecting Bond Pads on Die & Substrate using Bond Wires.
 
+![image](https://github.com/user-attachments/assets/52be704f-b654-4413-9a33-80c38150683f)
+
 ### Lecture 5: Applying Mould Compound & Finalizing the Package Model
 #### Key Takeaways:
 1. Adding a Layer of Moulding Compound Over the Connected Die.
 2. Consideration Taken Before Deciding Moulding Compound Height.
 
----
+![image](https://github.com/user-attachments/assets/525a3d06-1c2d-4817-b700-3c9483b0f46f)
 
-For detailed lecture notes and diagrams, refer to the module's PDF file.
+---
