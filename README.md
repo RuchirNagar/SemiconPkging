@@ -193,3 +193,9 @@ Upcoming Units in India: Micron, CG Powers + Renesas, Tata Electronics, Kaynes S
 ![image](https://github.com/user-attachments/assets/525a3d06-1c2d-4817-b700-3c9483b0f46f)
 
 ---
+
+### Acknowledgement
+
+I would like to take a moment to express my heartfelt gratitude to Mr. Kunal Ghosh and Dr. Tarun Kumar Agarwal for sharing their expertise and for providing us with a valuable platform to explore the field of semiconductor packaging.
+
+---
