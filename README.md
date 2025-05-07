@@ -140,6 +140,8 @@ Upcoming Units in India: Micron, CG Powers + Renesas, Tata Electronics, Kaynes S
 2. Common IC Test Overview: AOST, Burn-In, Final Test
 3. Analysis of AOST & Typical Failures it can Detect.
 
+![image](https://github.com/user-attachments/assets/7d0c9b49-1f5e-462d-aa19-f3a23dd07dba)
+
 ### Lecture 2: Reliability & Performance Testing of Semiconductor Packages
 #### Key Takeaways:
 1. Analysis of Burn-In Test.
@@ -147,6 +149,8 @@ Upcoming Units in India: Micron, CG Powers + Renesas, Tata Electronics, Kaynes S
 3. Overview of Burn-In Boards & the Faults Detected in This Test.
 4. Discussion of Final Tests: Testing Edge Cases (Hot & Cold Test)
 5. Performance Indicators & Units of Final Test Equipment.
+
+![image](https://github.com/user-attachments/assets/b6fb064d-37f8-4f63-be62-7e7b9e210b86)
 
 ---
 
