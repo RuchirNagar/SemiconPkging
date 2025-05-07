@@ -9,7 +9,7 @@ Welcome to the repository for the **"Introduction to Semiconductor Packaging"** 
 ## Module 1: Packaging Evolution – From Basics to 3D Integration
 
 ### Lecture 1: Introduction to Semiconductor Packaging
-## Key Takeaways:
+#### Key Takeaways:
 1. What is packaging and Why is it Needed?
 2. Silicon Development Industry & it's Key Players At Each Level.
 3. Technical Terms Related to the Silicon Supply Chain.
@@ -19,7 +19,7 @@ Welcome to the repository for the **"Introduction to Semiconductor Packaging"** 
 Upcoming Units in India: Micron, CG Powers + Renesas, Tata Electronics, Kaynes Semiconductor
 
 ### Lecture 2: Understanding Package Requirements and Foundational Package Types
-## Key Takeaways:
+#### Key Takeaways:
 1. Silicon Development Cycle.
 2. Key Factors to Consider While Designing Packages.
 3. Package Families & their Types.
@@ -28,7 +28,7 @@ Upcoming Units in India: Micron, CG Powers + Renesas, Tata Electronics, Kaynes S
 
 
 ### Lecture 3: Evolving Package Architecture – Single Chip to Multi-Chip Modules
-## Key Takeaways:
+#### Key Takeaways:
 1. Types of Package Families.
 2. Internal Structure of Packages.
 3. Advantages & Disadvantages of Each Package Type.
@@ -36,14 +36,14 @@ Upcoming Units in India: Micron, CG Powers + Renesas, Tata Electronics, Kaynes S
 ![image](https://github.com/user-attachments/assets/92484b8c-256f-4024-8e18-2c574fe9c94c)
 
 ### Lecture 4: Interposer Redistribution Layer and 2.5D/3D Packaging Approaches
-## Key Takeaways:
+#### Key Takeaways:
 1. Types of 2.XD Integration.
 2. Integration of Dies Into Packages & Systems.
 
 ![image](https://github.com/user-attachments/assets/af0c373f-8c7b-46d8-806a-a4f8e5d27ee1)
 
 ### Lecture 5: Comparative Analysis and Selecting the Right Package Solution
-## Key Takeaways:
+#### Key Takeaways:
 1. Comparative Analysis of Packages.
 2. Advantages & Disadvantages of Each Package Type.
 3. Applications of Individual Package Type.
@@ -55,25 +55,40 @@ Upcoming Units in India: Micron, CG Powers + Renesas, Tata Electronics, Kaynes S
 ## Module 2: From Wafer to Package – Assembly and Manufacturing Essentials
 
 ### Lecture 1: Setting the Stage – Supply Chain and Facilities
+#### Key Takeaways:
 1. Semiconductor Processing Supply Chain.
 2. Overview of Packaging Units.
-3. Processes and Technical Specifications of Packaging Units.
+3. Processes and Technical Specifications of Packaging Units
+
+![image](https://github.com/user-attachments/assets/b236f5af-487f-4ea1-bddd-77e606e4c073)
 
 ### Lecture 2: Wafer Pre-Preparation – Grinding and Dicing
+#### Key Takeaways:
 1. Overview of Cleanroom Processes.
 2. Steps Involved in Wafer Processing.
 
+![image](https://github.com/user-attachments/assets/4621b93b-b39f-4061-af4a-fc3617d5fa64)
+
 ### Lecture 3: Wire Bond Packaging – Assembly and Manufacturing Essentials
+#### Key Takeaways:
 1. Overview of Wire Bonding.
 2. Processes Involved in Wire Bond Packaging.
 
+![image](https://github.com/user-attachments/assets/e11406b1-774e-45c5-84f3-54598bdb302e)
+
 ### Lecture 4: Flip Chip Assembly – Bump Formation and Underfill
+#### Key Takeaways:
 1. Overview of Flip Chips.
 2. Processes & Technical Terms Associated with Flip Chip Packaging.
 
+![image](https://github.com/user-attachments/assets/695f4b89-7367-49f3-82d8-e145cc5820f7)
+
 ### Lecture 5: Wafer-Level Packaging and Conclusion
+#### Key Takeaways:
 1. Overview of Wafer-Level Packaging.
 2. Processes and Technical Terms Associated with Wafer-Level Packaging.
+
+![image](https://github.com/user-attachments/assets/e4295f83-aa95-455d-a9aa-78112386e27a)
 
 ---
 
