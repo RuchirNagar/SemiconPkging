@@ -122,7 +122,7 @@ Upcoming Units in India: Micron, CG Powers + Renesas, Tata Electronics, Kaynes S
 1. Meshing the DUT for Analysis.
 2. Validatiing Simulation Inputs to Ensure Convergent Solutions.
 
-![image](https://github.com/user-attachments/assets/2660a4c2-82ed-4a2f-86f2-bff7715aa348)
+![image](https://github.com/user-attachments/assets/2e60081c-55ea-4629-8235-c12ac0801e2f)
 
 ### Lecture 5: Viewing Results & Exploring Other Package Types
 #### Key Takeaways:
