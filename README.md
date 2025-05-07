@@ -9,9 +9,46 @@ Welcome to the repository for the **"Introduction to Semiconductor Packaging"** 
 ## Module 1: Packaging Evolution – From Basics to 3D Integration
 
 ### Lecture 1: Introduction to Semiconductor Packaging
+## Key Takeaways:
 1. What is packaging and Why is it Needed?
 2. Silicon Development Industry & it's Key Players At Each Level.
 3. Technical Terms Related to the Silicon Supply Chain.
+
+L1: Introduction To Semiconductor Packaging 
+By Tarun Agrawal
+IIT Gandhinagar
+
+
+Why Packaging Is Needed?
+So, individual chips are cut out from wafers.
+They are built in a protected environments.
+
+But when used, these ICs are exposed to the real world.
+
+	1. Packaging enables the die to work in the real world (Corrosion, Physical damage, moisture etc.)
+	2. Allow connection to other dies
+
+![image](https://github.com/user-attachments/assets/bbaebf4e-f69c-4138-ba35-fcc33771046c)
+
+So here, the black outer casing is not the package, but the moulding compound.
+The IC is placed within the moulding compound & we use wire bonds to connect it to the substrate.
+Wire bond allows us to connect to BGA, which can be used to connect to a system.
+
+So, packaging brings personality to an intelligent chip
+
+Design is the first step in this process, we give designs to a foundry, who manufacture it.
+Post manufacturing, we test the wafer, package it & test it in packages & test.
+Tested ICs are sent for assembly.
+
+IDMs: Design, Foundry & Packaging: End to End (Intel, Samsung, Micron, SKHynix, TI, ST)
+But for fabless companies:
+	1. Fabless Design Centric Orgs (Qualcomm, nVidia, AMD, Apple)
+	2. Foundry: Wafer Mfg (TSMC, Global Foundries)
+	3. OSAT (Outsourced Semiconductor Assembly & Test): Packaging & Testing of all wafers they receive (ASE, Amkor, JCET, PTI, UTAC, TSMC etc.)
+
+Upcoming Units in India: Micron, CG Powers + Renesas, Tata Electronics, Kaynes Semiconductor
+![image](https://github.com/user-attachments/assets/94cde0c6-fb09-4c0b-aa17-2d4a6a36ea53)
+
 
 ### Lecture 2: Understanding Package Requirements and Foundational Package Types
 1. Silicon Development Cycle.
