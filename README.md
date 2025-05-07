@@ -95,36 +95,53 @@ Upcoming Units in India: Micron, CG Powers + Renesas, Tata Electronics, Kaynes S
 ## Module 3: Thermal Simulation of Packages Using Ansys
 
 ### Lecture 1: Intro & Getting Started with Ansys Electronics Desktop
+#### Key Takeaways:
 1. Overview of Ansys Electronics Desktop Student 2024 R2.
 2. Tools Available in Anays: Icepack, Q3D, HFSS etc.
 3. Overview of Menu Panes in Icepack.
 
+![image](https://github.com/user-attachments/assets/96a5c402-41f6-4bdb-b8e4-d14603ac0ec8)
+
 ### Lecture 2: Setting Up a Flip Chip BGA Package
+#### Key Takeaways:
 1. Importing Pre-generated Geometries for FCBGA.
 2. Analyzing Layers of FCBGA.
 
+![image](https://github.com/user-attachments/assets/9a45e5e6-2f3e-4012-bce7-1cbc3c355ed7)
+
 ### Lecture 3: Material Definitions & Thermal Power Sources
+#### Key Takeaways:
 1. Defining Thermal Simulation Parameters for the Different Layers.
 2. Assigninig Temperature Monitors for the Individual Layers.
 
+![image](https://github.com/user-attachments/assets/b5877a8d-ad40-4ad2-a768-e03a18e0b3d8)
+
 ### Lecture 4: Meshing & Running Thermal Analysis
+#### Key Takeaways:
 1. Meshing the DUT for Analysis.
 2. Validatiing Simulation Inputs to Ensure Convergent Solutions.
 
+![image](https://github.com/user-attachments/assets/2660a4c2-82ed-4a2f-86f2-bff7715aa348)
+
 ### Lecture 5: Viewing Results & Exploring Other Package Types
+#### Key Takeaways:
 1. Generating Simulation Results for Given Inputs.
 2. Plotting the Simulation Results on the 3D Package.
+
+![image](https://github.com/user-attachments/assets/b4367413-e81d-4ec2-8317-f4127566e9ac)
 
 ---
 
 ## Module 4: Ensuring Package Reliability: Testing & Performance Evaluation
 
 ### Lecture 1: Introduction to Package Testing & Electrical Functionality Checks
+#### Key Takeaways:
 1. Overview of Why Testing is Needed.
 2. Common IC Test Overview: AOST, Burn-In, Final Test
 3. Analysis of AOST & Typical Failures it can Detect.
 
 ### Lecture 2: Reliability & Performance Testing of Semiconductor Packages
+#### Key Takeaways:
 1. Analysis of Burn-In Test.
 2. Intorduction to Failure Rate V/S Time Curve.
 3. Overview of Burn-In Boards & the Faults Detected in This Test.
@@ -136,22 +153,27 @@ Upcoming Units in India: Micron, CG Powers + Renesas, Tata Electronics, Kaynes S
 ## Module 5: Package Design & Modelling: Building a Semiconductor Package from Scratch
 
 ### Lecture 1:  Into To Package Cross-Section Modelling in Ansys Electronics Desktop (AEDT)
+#### Key Takeaways:
 1. Overview of Packaging Dies
 2. Intorduction to Q3D for Electrical Analysis. 
 
 ### Lecture 2: Creating the Die Substrate in AEDT
+#### Key Takeaways:
 1. Overview of the tool Q3D Draw Tool Bar & Surface Generation.
 2. Renaming & Assigning Materials to Layers.
 
 ### Lecture 3: Adding Die Attach Material & Bond Pads
+#### Key Takeaways:
 1. Placing Bond Pads on Die & Substrate.
 2. Adding Underfill between Die & Substrate.
 
 ### Lecture 4: Wire Bond Creation & Material Alignment
+#### Key Takeaways:
 1. Introduction to Bond Wire, it's Properties & types.
 2. Connecting Bond Pads on Die & Substrate using Bond Wires.
 
 ### Lecture 5: Applying Mould Compound & Finalizing the Package Model
+#### Key Takeaways:
 1. Adding a Layer of Moulding Compound Over the Connected Die.
 2. Consideration Taken Before Deciding Moulding Compound Height.
 
