@@ -28,18 +28,27 @@ Upcoming Units in India: Micron, CG Powers + Renesas, Tata Electronics, Kaynes S
 
 
 ### Lecture 3: Evolving Package Architecture – Single Chip to Multi-Chip Modules
+## Key Takeaways:
 1. Types of Package Families.
 2. Internal Structure of Packages.
 3. Advantages & Disadvantages of Each Package Type.
 
+![image](https://github.com/user-attachments/assets/92484b8c-256f-4024-8e18-2c574fe9c94c)
+
 ### Lecture 4: Interposer Redistribution Layer and 2.5D/3D Packaging Approaches
+## Key Takeaways:
 1. Types of 2.XD Integration.
 2. Integration of Dies Into Packages & Systems.
 
+![image](https://github.com/user-attachments/assets/af0c373f-8c7b-46d8-806a-a4f8e5d27ee1)
+
 ### Lecture 5: Comparative Analysis and Selecting the Right Package Solution
+## Key Takeaways:
 1. Comparative Analysis of Packages.
 2. Advantages & Disadvantages of Each Package Type.
 3. Applications of Individual Package Type.
+
+![image](https://github.com/user-attachments/assets/b965dd8b-0ecf-4e8d-bf17-d0a3673c5bf1)
 
 ---
 
